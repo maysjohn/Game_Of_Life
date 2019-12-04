@@ -14,7 +14,7 @@ import javax.swing.JSlider;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-//Worked with Jacky Zhao, Selena Li
+//Worked with Jacky and Selena
 
 public class Game_of_Life {
 	
